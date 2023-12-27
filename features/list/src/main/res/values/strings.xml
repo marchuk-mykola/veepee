@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">list</string>
+    <string name="search">Search</string>
+    <string name="data_loading_error">Data loading error</string>
+    <string name="favorites">Favorites</string>
+    <string name="movies">Movies</string>
+    <string name="refresh">Refresh data\n</string>
+</resources>

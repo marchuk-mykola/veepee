@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Favorites</string>
+    <string name="activity_label">Favorites</string>
+    <string name="favorites_loading_error">Favorites loading error</string>
+    <string name="no_favorites">No favorites yet</string>
+    <string name="favorites">Favorites</string>
+</resources>
